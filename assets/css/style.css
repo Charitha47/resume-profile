@@ -226,6 +226,10 @@ ul.side-nav {
 ul.side-nav li {
   padding: 0;
 }
+img{
+  max-width: 100%;
+  height: auto;
+}
 
 /* ul.side-nav.fixed a {
   box-sizing: content-box;
